@@ -131,9 +131,9 @@ Distributed under the MIT License. See `LICENSE` for more information. -->
 <!-- CONTACT -->
 ## Contact
 
-Email: [tim.jameswork9800@gmail.com](mailto:tim.jameswork9800@gmail.com "tim.jameswork9800@gmail.com")
+Email: [nitinsingh9155@gmail.com](mailto:nitinsingh9155@gmail.com "nitinsingh9155@gmail.com")
 
-Project Link: [https://github.com/Tim-W-James/Java-Client-Management-System](https://github.com/Tim-W-James/Java-Client-Management-System)
+Project Link: [https://github.com/Tim-W-James/Java-Client-Management-System](https://github.com/nitinsingh0219/employee-management-system)
 
 
 
