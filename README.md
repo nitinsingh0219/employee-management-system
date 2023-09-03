@@ -31,12 +31,10 @@
   <p align="center">
     GUI system for storing and manipulating customer information.
     <br />
-    Copy of an old college project from <b>2018</b>.
     <br />
 <!--     <a href="https://github.com/Tim-W-James/repo_name"><strong>Explore the docs »</strong></a>
     <br /> 
     <br /> -->
-    <a href="https://github.com/Tim-W-James/Java-Client-Management-System/releases">View Demo</a>
 <!--     ·
     <a href="https://github.com/Tim-W-James/repo_name/issues">Report Bug</a> -->
 <!--     ·
