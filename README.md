@@ -97,10 +97,6 @@ Java GUI system for storing and manipulating customer information, with function
 ### Prerequisites
 
 * Install [Java](https://java.com/en/download/help/download_options.html)
-
-### Installation
-
-Download and run the `.jar` latest version of the application in the [Releases](https://github.com/Tim-W-James/Java-Client-Management-System/releases) tab.
    
 ### Development
 
@@ -131,7 +127,6 @@ Distributed under the MIT License. See `LICENSE` for more information. -->
 
 Email: [nitinsingh9155@gmail.com](mailto:nitinsingh9155@gmail.com "nitinsingh9155@gmail.com")
 
-Project Link: [https://github.com/Tim-W-James/Java-Client-Management-System](https://github.com/nitinsingh0219/employee-management-system)
 
 
 
